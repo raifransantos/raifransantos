@@ -1,9 +1,9 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Raifran Santos</h1>
+<h1 align="left">Oi, eu sou o Raifran <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Raifransalves&color=yellow" alt="Profile views" /> </p>
 - Estudante de Análise e desenvolvimento de sistemas
 <br><br>
 
-## 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Tecnologias
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -15,15 +15,14 @@
 
 <br>
 
-## ⚙️ &nbsp;GitHub Analytics
-
+## ⚙️ &nbsp;GitHub
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=Raifransalves&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raifransalves&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
 </p>
 
 <br><br>
-## 👨🏽‍🦲 &nbsp;Social Links
+## 👨🏽‍🦲 &nbsp;Redes Sociais
 
 <p align="left" style="background:yellow">
 <a href="https://codepen.io/raifran" target="_blank">
