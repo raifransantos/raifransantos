@@ -30,4 +30,4 @@ Apaixonado por tecnologia e inovação.
   ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
- ![Snake animation](https://github.com/raifransantos/raifransantos/blob/output/github-contribution-grid-snake.svg)
+ ![snake gif](https://github.com/raifransantos/raifransantos/blob/output/github-contribution-grid-snake.gif)
