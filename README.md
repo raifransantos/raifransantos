@@ -3,9 +3,7 @@
 Apaixonado por tecnologia e inovação.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-64818C?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raifransantos/)
-[![Instagram](https://img.shields.io/badge/Instagram-64818C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/raifran.dev)
 [![CodePen](https://img.shields.io/badge/Codepen-64818C?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/raifran)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-64818C?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19655858/raifran-santos)
 
 ![Raifran Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=raifransantos&show_icons=true&theme=dracula&count_private=true)
 
