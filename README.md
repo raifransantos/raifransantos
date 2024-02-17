@@ -20,12 +20,7 @@ Apaixonado por tecnologia e inovação.
 
 ## Tecnologias que estou aprendendo
 
-![MySQL](https://img.shields.io/badge/mysql-%234ED1C5.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%234ED1C5.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-%234ED1C5?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%234ED1C5.svg?style=for-the-badge&logo=react&logoColor=white)
-	![Java](https://img.shields.io/badge/java-%234ED1C5.svg?style=for-the-badge&logo=java&logoColor=white)
-  ![Markdown](https://img.shields.io/badge/markdown-%234ED1C5.svg?style=for-the-badge&logo=markdown&logoColor=white)
-  ![TypeScript](https://img.shields.io/badge/typescript-%234ED1C5.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
- ![snake gif](https://github.com/raifransantos/raifransantos/blob/output/github-contribution-grid-snake.gif)
+![TypeScript](https://img.shields.io/badge/typescript-%234ED1C5.svg?style=for-the-badge&logo=typescript&logoColor=white)
