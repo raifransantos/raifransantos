@@ -1,14 +1,14 @@
-# Raifran Santos
+# Raifran Alves
 
 <a href="https://www.linkedin.com/in/raifransantos/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## Sobre mim
 
-Eu sou um desenvolvedor Front-End.
+Eu sou um programador Frontend.
 
 
 * Graduado em Análise e Desenvolvimento de Sistemas.
-* Estudante de Engenharia de Software [Especiliazação].
+* Pós-graduado em Engenharia de Software [Especiliazação].
 
 </br>
 
